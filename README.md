@@ -1,1 +1,0 @@
-# deofuscardo.lua-bot62-01roxhub-
